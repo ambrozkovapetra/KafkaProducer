@@ -1,5 +1,4 @@
 # KafkaProducer
-Kafka producer
 ==============
 
 **Configuration is localized in file:**
